@@ -61,7 +61,7 @@ PSS,Non-linear,Percentage of short segments.,,
 PAS,Non-linear,Percentage of NN intervals in alternation segments.,,
 ApEn,Non-linear,"Approximate entropy \cite{sabetiEntropyComplexityMeasures2009, shiEntropyAnalysisShortTerm2017}.",,
 SampEn,Non-linear,Sample entropy.,,
-ShanEn,Non-linear,Shannon entropy.,,
+ShanEn,Non-linear,Shannon entropy \cite{shannonMathematicalTheoryCommunication1948}.,,
 FuzzyEn,Non-linear,"Fuzzy entropy \cite{ishikawaFuzzyEntropyConcept1979, zadehFuzzySetsFuzzy1996}.",,
 MSEn,Non-linear,Multiscale entropy \cite{costaMultiscaleEntropyAnalysis2002}.,,TODO: include other references
 CMSEn,Non-linear,Composite Multiscale Entropy \cite{wuTimeSeriesAnalysis2013}.,,
