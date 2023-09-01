@@ -28,6 +28,7 @@ VLF,Frequency-domain,The spectral power of very low frequencies (.0033 to .04 Hz
 LF,Frequency-domain,The spectral power of low frequencies (.04 to .15 Hz).,,
 HF,Frequency-domain,The spectral power of high frequencies (.15 to .4 Hz).,,
 VHF,Frequency-domain,The spectral power of very high frequencies (.4 to .5 Hz).,,
+LFHF,Frequency-domain,The ratio obtained by dividing the low frequency power by the high frequency power.,,
 LFn,Frequency-domain,"The normalized low frequency, obtained by dividing the low frequency power by the total power.",,
 HFn,Frequency-domain,"The normalized high frequency, obtained by dividing the low frequency power by the total power.",,
 LnHF,Frequency-domain,The log transformed HF.,,
